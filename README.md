@@ -1,4 +1,5 @@
 Business Problem:
+
 Develop a machine learning model that accurately predicts whether a customer is likely to leave the company (churn), enabling proactive retention strategies.
 
 Project Workflow
